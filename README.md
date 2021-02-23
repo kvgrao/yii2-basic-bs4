@@ -3,6 +3,7 @@
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
     </a>
     <h1 align="center">Yii 2 Basic Project Template</h1>
+    <h2 align = "center"> with Bootstrap 4 and Font Awesome support </h2>
     <br>
 </p>
 
